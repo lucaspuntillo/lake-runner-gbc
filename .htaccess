@@ -1,0 +1,3 @@
+Options +Indexes
+AddType application/octet-stream .cia
+AddType application/octet-stream .gb
